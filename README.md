@@ -1,5 +1,2 @@
-Squirrel
-=======
-
-Squirrels!
-=
+Squirrel!
+========
